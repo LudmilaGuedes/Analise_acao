@@ -25,7 +25,10 @@ Para executar este projeto, você precisará das seguintes bibliotecas Python:
 - `pandas`
 - `numpy`
 
-Você pode instalar todas as dependências necessárias executando:
+## Colaboradores
 
-```bash
-pip install -r requirements.txt
+- **Ludmila Guedes** (https://github.com/LudmilaGuedes/Analise_acao.git)
+
+- **Isabella Aguiar** (link)
+
+- **Julia Felix** (link)
