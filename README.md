@@ -29,6 +29,6 @@ Para executar este projeto, você precisará das seguintes bibliotecas Python:
 
 - **Ludmila Guedes** (https://github.com/LudmilaGuedes/Analise_acao.git)
 
-- **Isabella Aguiar** (link)
+- **Isabella Aguiar** (https://github.com/isabellaaguiarr Analise_acao.git)
 
-- **Julia Felix** (link)
+- **Julia Felix** (https://github.com/juliafgiannandrea/Analise_acao.git)
